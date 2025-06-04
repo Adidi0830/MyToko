@@ -2,3 +2,15 @@
 Aplikasi manajemen toko sederhana yang bisa membantu banyak pelaku UMKM dalam menjalankan bisnis mereka dengan lebih praktis.
 Aplikasi ini menawarkan berbagai fitur yang mampu meningkatkan efisiensi operasional toko secara signifikan seperti fitur tambah, ubah dan hapus barang, kemudian fitur proses pembayaran, yang dapat mempercepat proses penghitungan kembalian, memastikan tidak ada kesalahan yang dapat terjadi.
 Fitur unggulan dari aplikasi ini adalah fitur kembalikan barang rusak, di mana pada fitur ini user dapat mengembalikan barang yang rusak sebelum digunakan dengan lebih mudah
+
+# Petunjuk Penggunaan
+1. Buka aplikasi terminal atau Windows powershell
+2. ketik 'git' pada powershell, jika powershell menunjukkan beberapa paragraf berwarna merah, tandanya git masih belum diunduh
+3. Unduh aplikasi git di https://git-scm.com/downloads
+4. ikuti proses unduhan
+5. setelah proses unduhan selesai, buka aplikasi melalui file manajer, klik 2 kali sampai ada pesan "run git as administrator", lalu klik yes
+6. Kembali ke power shel
+7. ketik cd MyToko
+8. ketik python ProjekUAS2.py
+9. Powershell akan membuka windows baru yang berisi aplikasi ini
+10. Jika masih belum muncul, tutup lalu buka kembali aplikasi powershell dan ulangi langkah 7-8
