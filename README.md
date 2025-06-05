@@ -8,7 +8,7 @@ Fitur unggulan dari aplikasi ini adalah fitur kembalikan barang rusak, di mana p
 2. ketik 'git' pada powershell, jika powershell menunjukkan beberapa paragraf berwarna merah, tandanya git masih belum diunduh
 3. Unduh aplikasi git di https://git-scm.com/downloads
 4. ikuti proses unduhan
-5. setelah proses unduhan selesai, buka aplikasi melalui file manajer, klik 2 kali sampai ada pesan "run git as administrator", lalu klik yes
+5. setelah proses unduhan selesai, buka aplikasi melalui file manajer, klik 2 kali sampai ada pesan "Do you want to allow this app to make changes to your device" atau semacamnya, lalu klik yes
 6. Kembali ke power shel
 7. ketik cd MyToko
 8. ketik python ProjekUAS2.py
