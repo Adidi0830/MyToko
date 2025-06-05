@@ -9,8 +9,10 @@ Fitur unggulan dari aplikasi ini adalah fitur kembalikan barang rusak, di mana p
 3. Unduh aplikasi git di https://git-scm.com/downloads
 4. ikuti proses unduhan
 5. setelah proses unduhan selesai, buka aplikasi melalui file manajer, klik 2 kali sampai ada pesan "Do you want to allow this app to make changes to your device" atau semacamnya, lalu klik yes
-6. Kembali ke power shel
-7. ketik cd MyToko
-8. ketik python ProjekUAS2.py
-9. Powershell akan membuka windows baru yang berisi aplikasi ini
-10. Jika masih belum muncul, tutup lalu buka kembali aplikasi powershell dan ulangi langkah 7-8
+6. Git akan memunculkan pop up setup, ikuti prosedur yang diberikan oleh git. Git akan memulai proses instalasi.
+7. setelah proses instalasi selesai, git akan memunculkan pop up lagi, klik tombol finish, kosongkan 2 tanda centang yang tercantum pada pop up tersebut
+8. Kembali ke power shel
+9. ketik cd MyToko
+10. ketik python ProjekUAS2.py
+11. Powershell akan membuka windows baru yang berisi aplikasi ini
+12. Jika masih belum muncul, tutup lalu buka kembali aplikasi powershell dan ulangi langkah 7-8
